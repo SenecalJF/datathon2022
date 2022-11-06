@@ -1,21 +1,4 @@
-﻿"NAME"
-"Weekly BCPI"
-
-"DESCRIPTION"
-"Weekly Bank of Canada commodity price index."
-
-"SERIES"
-"id","label","description"
-"W.BCPI","Weekly BCPI Total - v52673503","Weekly Bank of Canada commodity price index - Total"
-"W.BCNE","Weekly BCPI Excluding Energy - v52673504","Weekly Bank of Canada commodity price index - Excluding Energy"
-"W.ENER","Weekly BCPI Energy - v52673505","Weekly Bank of Canada commodity price index - Energy"
-"W.MTLS","Weekly BCPI Metals and Minerals - v52673506","Weekly Bank of Canada commodity price index - Metals and Minerals"
-"W.FOPR","Weekly BCPI Forestry - v52673509","Weekly Bank of Canada commodity price index - Forestry"
-"W.AGRI","Weekly BCPI Agriculture - v52673507","Weekly Bank of Canada commodity price index - Agriculture"
-"W.FISH","Weekly BCPI Fish - v52673508","Weekly Bank of Canada commodity price index - Fish"
-
-"OBSERVATIONS"
-"date","W.BCPI","W.BCNE","W.ENER","W.MTLS","W.FOPR","W.AGRI","W.FISH"
+﻿"date","W.BCPI","W.BCNE","W.ENER","W.MTLS","W.FOPR","W.AGRI","W.FISH"
 "1972-01-12","100.00","100.00","100.00","100.00","100.00","100.00","100.00"
 "1972-01-19","100.00","100.00","100.00","100.00","100.00","100.00","100.00"
 "1972-01-26","100.00","100.00","100.00","100.00","100.00","100.00","100.00"
