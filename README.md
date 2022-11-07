@@ -1,3 +1,6 @@
+Vous trouverez toutes les informations utiles pour comprendre notre solution dans le fichier EXPLAINER.md.
+Please Find all relevant information to understand our solution in the EXPLAINED.md file.
+
 # Datathon 2022
 
 ### By PolyFinances, National Bank, Finance Montreal, SR.AI
